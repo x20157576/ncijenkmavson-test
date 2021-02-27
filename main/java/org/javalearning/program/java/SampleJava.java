@@ -11,7 +11,7 @@ public class SampleJava {
 			return num1;	
 		}
 		catch(Exception e) {
-			x=6;
+			x=5;
 		}
 		return num1-num2;
 	}
